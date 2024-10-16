@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 <head>
   <title>I Made Some Tea Without the Bag</title>
