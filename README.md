@@ -10,11 +10,14 @@ p    {color: white;}
 </head>
 <body>
 
-<h1>This is a heading</h1>
+<h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 
 <img src="
-https://raw.githubusercontent.com/crazy-pyromaniac/crazy-pyromaniac.github.io/refs/heads/main/Red_Circle.png" alt="W3Schools.com" width="150" height="150">
+https://raw.githubusercontent.com/crazy-pyromaniac/crazy-pyromaniac.github.io/refs/heads/main/Red_Circle.png" alt="Red Circle" width="150" height="150">
+
+<h2>Other Pages</h2>
+<a></a>
 
 </body>
 </html>
